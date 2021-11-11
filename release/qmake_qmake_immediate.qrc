@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="RC_ICONS">D:/QT/Save/Do_An_Chuong/RC_ICONS</file>
+<file alias="=">D:/QT/Save/Do_An_Chuong/=</file>
+<file alias=":/Image/hard_drive.ico">D:/QT/Save/Do_An_Chuong/:/Image/hard_drive.ico</file>
+</qresource>
+</RCC>

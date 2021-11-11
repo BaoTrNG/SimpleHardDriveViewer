@@ -1,0 +1,13 @@
+2
+Model                                                 SAMSUNG MZVLB512HBJQ-00000
+Serial Number                                               0025_3882_01D0_D04F.
+BytesPerTrack                                                                512
+SectorsPerTrack                                                               63
+Bus                                                                         RAID
+Size                                                            512105932800(KB) 476(GB) 
+Model                                             KBG40ZNS256G NVMe KIOXIA 256GB
+Serial Number                           0100_0000_0000_0000_8CE3_8E04_0076_70E1.
+BytesPerTrack                                                                512
+SectorsPerTrack                                                               63
+Bus                                                                         RAID
+Size                                                            256052966400(KB) 238(GB) 

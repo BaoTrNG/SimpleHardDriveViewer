@@ -1,0 +1,26 @@
+﻿Index  
+1      
+0      
+
+
+BytesPerSector=512
+Model=SAMSUNG MZVLB512HBJQ-00000
+SectorsPerTrack=63
+SerialNumber=0025_3882_01D0_D04F.
+Size=512105932800
+
+
+BytesPerSector=512
+Model=KBG40ZNS256G NVMe KIOXIA 256GB
+SectorsPerTrack=63
+SerialNumber=0100_0000_0000_0000_8CE3_8E04_0076_70E1.
+Size=256052966400
+
+
+﻿
+BusType
+-------
+RAID   
+RAID   
+
+

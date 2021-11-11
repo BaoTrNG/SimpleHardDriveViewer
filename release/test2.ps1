@@ -1,0 +1,1 @@
+Get-Content final.txt -Encoding Unicode | Set-Content -Encoding UTF8 temp.txt

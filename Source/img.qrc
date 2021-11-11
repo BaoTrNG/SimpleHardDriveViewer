@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Image/loading-azurlane.gif</file>
+        <file>../../Image/i (2).png</file>
+        <file>../../Image/exit3.png</file>
+        <file>../../Image/7epV.gif</file>
+        <file>../../Image/nezuko running .gif</file>
+        <file>../../Image/hard_drive.png</file>
+        <file>../../Image/hard_drive.ico</file>
+        <file>../../Image/load3.gif</file>
+    </qresource>
+</RCC>

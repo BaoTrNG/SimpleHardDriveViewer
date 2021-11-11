@@ -1,0 +1,1 @@
+Get-PhysicalDisk | ft BusType > BusType.txt
